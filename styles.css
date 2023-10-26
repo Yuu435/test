@@ -33,6 +33,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   margin-top: 50px;
   .title {
     margin-right: 20px;
@@ -49,6 +50,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   margin-top: 50px;
   .sum_input{
     font-size: 22px;
